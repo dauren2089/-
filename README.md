@@ -1,6 +1,5 @@
-New project about authentication process.
-
-Before, I have installed:
+New project about authentication process,
+by using following modules:
 - bcrypt,
 - ejs,
 - express,
@@ -13,8 +12,8 @@ Before, I have installed:
 - nodemon
 
 Next functions has been done:
-Sign Up
-Sign In
-Session control
-Log Out
+- Sign Up
+- Sign In
+- Session control
+- Log Out
 
