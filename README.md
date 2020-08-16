@@ -20,6 +20,16 @@ The list of major add-ons/plugins that has been used to built project.
 * dotenv
 * nodemon
 
+### Installation
+
+1. Clone the repo
+```sh
+git clone https://github.com/dauren2089/auth0.git
+```
+2. Install NPM packages
+```sh
+npm install
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
